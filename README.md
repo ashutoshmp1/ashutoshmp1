@@ -1,4 +1,4 @@
-## Hey there, I'm [Ashutosh Mohapatra!]
+## Hey there, I'm Ashutosh Mohapatra!
 
 <a href="https://twitter.com/intent/user?screen_name=ashutoshmp1">
   <img align="left" alt="Ashutosh - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
