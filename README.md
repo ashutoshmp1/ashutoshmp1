@@ -19,12 +19,12 @@
 <br/>
 
 - 😄 Pronouns: He/Him
-- 👀 I’m interested in ## Web Development.
-- 🌱 I’m currently learning ## Data Structures and Algorithm.
-- 💞️ I’m looking to collaborate with individuals to ## develop new projects.
-- 🔭 I’m currently working on improving ## my problem solving skill.
-- 🤔 I’m looking for a job as a ## Community Manager or Web Developer.
-- 💬 Ask me about anything between ## Community Management and Development
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Data Structures and Algorithm.
+- 💞️ I’m looking to collaborate with individuals to develop new projects.
+- 🔭 I’m currently working on improving my problem solving skill.
+- 🤔 I’m looking for a job as a Community Manager or Web Developer.
+- 💬 Ask me about anything between Community Management and Development
 - 📫 How to reach me: [LinkedIn - @mpashutosh](https://www.linkedin.com/in/mpashutosh/)
 
 [![Twitter: ashutoshmp1](https://img.shields.io/twitter/follow/ashutoshmp1?style=social)](https://twitter.com/intent/user?screen_name=ashutoshmp1)
